@@ -1,0 +1,6 @@
+{
+  "name": "멍멍 방명록 (Puppy Guestbook)",
+  "description": "구글 스프레드시트를 데이터베이스로 활용하는 귀여운 강아지 응원 방명록 & 게시판 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
